@@ -12,7 +12,7 @@ Cardiotoxicity is the condition when the heart muscle is damaged, making the hea
 [R Codes](https://github.com/ptnguyen128/DS-portfolio/blob/master/R/8051.pdf)  [Report](https://github.com/ptnguyen128/DS-portfolio/blob/master/8051Report.pdf)  
 This project was hosted by Travelers Analytics as a final project for the course STAT8051 at the University of Minnesota. 
 This case study aimed to predict a list of people who potentially would cancel their policies at Minnesconsin Insurance Company in the next year, based on 4 years of property insurance policy records.  
-Note: Training and testing data were provided by Travelers Analytics, but were not allowed to be taken out. 
+Note: Training and testing data were provided by Travelers Analytics, but were not allowed to be taken out.   
 **Keywords:** R, Logistic Regression
 
 ## TalkingData AdTracking Fraud Detection
@@ -23,5 +23,5 @@ This Kaggle competition aimed to build an algorithm that predicts whether a user
 # Personal Projects
 ## Vietnamese Music Genre Classification
 Music genre classification has always been a difficult problem, especially for non-English songs. This project aimed to build a music classifier to detect the correct genre of a given Vietnamese song.  
-Note: Training and testing data were provided by Zalo Vietnam, but were not allowed to be taken out.
+Note: Training and testing data were provided by Zalo Vietnam, but were not allowed to be taken out.  
 **Keywords:** Python, Audio Analysis, Convolutional Neural Network
