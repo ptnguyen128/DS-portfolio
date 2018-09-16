@@ -22,6 +22,7 @@ This Kaggle competition aimed to build an algorithm that predicts whether a user
 
 # Personal Projects
 ## Vietnamese Music Genre Classification
+[Codes](https://github.com/ptnguyen128/DS-portfolio/tree/master/Python/music-genre-classification)  
 Music genre classification has always been a difficult problem, especially for non-English songs. This project aimed to build a music classifier to detect the correct genre of a given Vietnamese song.  
 Note: Training and testing data were provided by Zalo Vietnam, but were not allowed to be taken out.  
 **Keywords:** Python, Audio Analysis, Convolutional Neural Network
