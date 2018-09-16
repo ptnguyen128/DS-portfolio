@@ -1,27 +1,15 @@
-# Data Science Portfolio by Thao Nguyen
-This repository contains the projects that I worked on for data analysis and statistical modeling. The projects are written in R (R Markdown) or Python (Jupyter Notebook).
+# Music Genre Classification
 
-# Research Project
-## Predicting Breast Cancer Related Cardiotoxicity On Electronic Health Records (EHR) Data
-Codes
-Cardiotoxicity is the condition when the heart muscle is damaged, making the heart unable to pump blood through the body. This might be caused by chemotherapy treatments, so there is a need to detect and predict cardiotoxicity at early stages for breast cancer patients. Several predictive models were implemented, using phenotypic data extracted from electronic health records and clinical notes.  
-**Keywords:** SQL, Python, Regular Expressions, Data Wrangling, Logistic Regression, Regularized Regression
+Training and testing files were provided by Zalo Vietnam, but were not allowed to be taken out. The .mp3 files in the `Data` folder are for demonstrative purpose only.  
 
-# Class Projects
-## Minnesconsin Insurance Company Modeling Problem by Travelers Analytics  
-[R Codes](https://github.com/ptnguyen128/DS-portfolio/blob/master/R/8051.pdf)  [Report](https://github.com/ptnguyen128/DS-portfolio/blob/master/8051Report.pdf)  
-This project was hosted by Travelers Analytics as a final project for the course STAT8051 at the University of Minnesota. 
-This case study aimed to predict a list of people who potentially would cancel their policies at Minnesconsin Insurance Company in the next year, based on 4 years of property insurance policy records.  
-Note: Training and testing data were provided by Travelers Analytics, but were not allowed to be taken out.   
-**Keywords:** R, Logistic Regression
+There were approximately 5000 audio files in the train set and 2000 audio files in the test set. Audio files were all in .mp3 format. There was also a .csv file containing the labels (1-10) for all songs in the train set corresponding to their genres. The goal is to build a classifier to predict the label of every song in the test set.  
 
-## TalkingData AdTracking Fraud Detection
-[Python Notebook](https://github.com/ptnguyen128/data-science-portfolio/blob/master/Python/TalkingData.ipynb)  
-This Kaggle competition aimed to build an algorithm that predicts whether a user will download an application after clicking a mobile advertisement. Gradient boosting decision tree algorithm (LightGBM) was chosen as the final model.  
-**Keywords:** Python, Data Visualization, Logistic Regression, Random Forest, LightGBM
+First we need to convert the .mp3 files into .wav files for preprocessing. `wav_convert.ipynb` will re-encode the audio files into .wav and also only keep the middle 30 seconds of each song.   
 
-# Personal Projects
-## Vietnamese Music Genre Classification
-Music genre classification has always been a difficult problem, especially for non-English songs. This project aimed to build a music classifier to detect the correct genre of a given Vietnamese song.  
-Note: Training and testing data were provided by Zalo Vietnam, but were not allowed to be taken out.  
-**Keywords:** Python, Audio Analysis, Convolutional Neural Network
+For visualization, we can run `spectrogram.ipynb` to analyze sample songs to see the differences among different genres. This script will convert audio files into spectrograms for visual analysis.  
+
+Then we can pre-process the .wav files by running `preprocess.py`, which extract [MFCCs](https://en.wikipedia.org/wiki/Mel-frequency_cepstrum) from each song.  
+ 
+`data_input.ipynb` reads in the processed data and matches each song with its correct label.  
+
+Then all processed data were fed into a convolutional neural network in `CNN.ipynb` for prediction.
