@@ -16,7 +16,7 @@ Note: Training and testing data were provided by Travelers Analytics, but were n
 **Keywords:** R, Logistic Regression
 
 ## TalkingData AdTracking Fraud Detection
-[Python Notebook](https://github.com/ptnguyen128/data-science-portfolio/blob/master/Python/TalkingData.ipynb)  
+[Python Notebook](https://github.com/ptnguyen128/DS-portfolio/blob/master/Python/TalkingData.ipynb)  
 This Kaggle competition aimed to build an algorithm that predicts whether a user will download an application after clicking a mobile advertisement. Gradient boosting decision tree algorithm (LightGBM) was chosen as the final model.  
 **Keywords:** Python, Data Visualization, Logistic Regression, Random Forest, LightGBM
 
