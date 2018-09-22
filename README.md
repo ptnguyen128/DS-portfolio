@@ -8,7 +8,7 @@ Cardiotoxicity is the condition when the heart muscle is damaged, making the hea
 **Keywords:** SQL, Python, Regular Expressions, Data Wrangling, Logistic Regression, Regularized Regression
 
 # Personal Projects
-## Discovering Overarching Themes of Kpop Boy Band BTS Using Machine Learning
+## Discover Overarching Themes of Kpop Boy Band BTS With Machine Learning
 [Blog post](https://medium.com/@nguy3409/discovering-overarching-themes-of-kpop-boy-band-bts-using-machine-learning-246c69115ac8)  
 [Codes](https://github.com/ptnguyen128/lyrics-analysis)  
 This project utitlized various natural language processing (NLP) techniques to mine lyrics of all the songs from Kpop group BTS in order to analyze the overall themes of their music.  
