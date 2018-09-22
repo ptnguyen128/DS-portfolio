@@ -21,6 +21,12 @@ This Kaggle competition aimed to build an algorithm that predicts whether a user
 **Keywords:** Python, Data Visualization, Logistic Regression, Random Forest, LightGBM
 
 # Personal Projects
+## Discovering Overarching Themes of Kpop Boy Band BTS Using Machine Learning
+[Blog post](https://medium.com/@nguy3409/discovering-overarching-themes-of-kpop-boy-band-bts-using-machine-learning-246c69115ac8)  
+[Codes](https://github.com/ptnguyen128/lyrics-analysis)  
+This project utitlized various natural language processing (NLP) techniques to mine lyrics of all the songs from Kpop group BTS in order to analyze the overall themes of their music.  
+**Keywords:** Python, NLP, Topic Modeling, Text Mining
+
 ## Vietnamese Music Genre Classification
 [Codes](https://github.com/ptnguyen128/DS-portfolio/tree/master/Python/music-genre-classification)  
 Music genre classification has always been a difficult problem, especially for non-English songs. This project aimed to build a music classifier to detect the correct genre of a given Vietnamese song.  
