@@ -32,3 +32,5 @@ Note: Training and testing data were provided by Travelers Analytics, but were n
 [Python Notebook](https://github.com/ptnguyen128/DS-portfolio/blob/master/Python/TalkingData.ipynb)  
 This Kaggle competition aimed to build an algorithm that predicts whether a user will download an application after clicking a mobile advertisement. Gradient boosting decision tree algorithm (LightGBM) was chosen as the final model.  
 **Keywords:** Python, Data Visualization, Logistic Regression, Random Forest, LightGBM
+
+Please feel free to contact me at nguy3409@umn.edu if you have any questions about my portfolio or any possible work opportunities!
