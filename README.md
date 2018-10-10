@@ -2,6 +2,10 @@
 This repository contains the projects that I worked on for data analysis and statistical modeling. The projects are written in R (R Markdown) or Python (Jupyter Notebook).
 
 # Research Project
+## Topic Modeling of Consumer Needs for Health Products
+Applied word embedding and topic modeling techniques to cluster topics of consumer needs from questions on Yahoo Answers (Health domain).
+**Keywords:** Python, NLP, Topic Modeling, Text Mining
+
 ## Predicting Breast Cancer Related Cardiotoxicity On Electronic Health Records (EHR) Data
 Codes  
 Cardiotoxicity is the condition when the heart muscle is damaged, making the heart unable to pump blood through the body. This might be caused by chemotherapy treatments, so there is a need to detect and predict cardiotoxicity at early stages for breast cancer patients. Several predictive models were implemented, using phenotypic data extracted from electronic health records and clinical notes.  
