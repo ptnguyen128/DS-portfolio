@@ -3,7 +3,7 @@ This repository contains the projects that I worked on for data analysis and sta
 
 # Research Project
 ## Topic Modeling of Consumer Needs for Health Products
-Applied word embedding and topic modeling techniques to cluster topics of consumer needs from questions on Yahoo Answers (Health domain).
+Applied word embedding and topic modeling techniques to cluster topics of consumer needs from questions on Yahoo Answers (Health domain).  
 **Keywords:** Python, NLP, Topic Modeling, Text Mining
 
 ## Predicting Breast Cancer Related Cardiotoxicity On Electronic Health Records (EHR) Data
