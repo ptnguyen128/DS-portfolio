@@ -1,7 +1,7 @@
 # Data Science Portfolio by Thao Nguyen
 This repository contains the projects that I worked on for data analysis and statistical modeling. The projects are written in R (R Markdown) or Python (Jupyter Notebook).
 
-# Research Project
+# Research Projects
 ## Topic Modeling of Consumer Needs for Health Products
 Applied word embedding and topic modeling techniques to cluster topics of consumer needs from questions on Yahoo Answers (Health domain).  
 **Keywords:** Python, NLP, Topic Modeling, Text Mining
