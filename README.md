@@ -1,5 +1,5 @@
 # Data Science Portfolio by Thao Nguyen
-This repository contains the projects that I worked on for data analysis and statistical modeling. The projects are written in R (R Markdown) or Python (Jupyter Notebook).
+This repository contains the projects that I worked on for data analysis and statistical modeling. The projects are written in R or Python.
 
 # Research Projects
 ## Topic Modeling of Consumer Needs for Health Products
