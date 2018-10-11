@@ -25,6 +25,11 @@ Note: Training and testing data were provided by Zalo Vietnam, but were not allo
 **Keywords:** Python, Audio Analysis, Convolutional Neural Network
 
 # Class Projects
+## Machine Learning Assignments
+[Codes](https://github.com/ptnguyen128/5525-hw)
+Implemented several machine learning and deep learning models from scratch.
+**Keywords**: Python, LDA, (Multinomial) Logistic Regression, GNB
+
 ## Minnesconsin Insurance Company Modeling Problem by Travelers Analytics  
 [R Codes](https://github.com/ptnguyen128/DS-portfolio/blob/master/R/8051.pdf)  [Report](https://github.com/ptnguyen128/DS-portfolio/blob/master/8051Report.pdf)  
 This project was hosted by Travelers Analytics as a final project for the course STAT8051 at the University of Minnesota. 
