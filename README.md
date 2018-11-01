@@ -19,6 +19,12 @@ Several predictive models were implemented, using phenotypic data extracted from
 This project utitlized various natural language processing (NLP) techniques to mine lyrics of all the songs from Kpop group BTS in order to analyze the overall themes of their music.  
 **Keywords:** Python, NLP, Topic Modeling, Text Mining
 
+## Automated Twitter Photo Downloader
+[Blog post](https://medium.com/@nguy3409/how-to-automatically-download-pictures-from-any-twitter-feed-e0f97ae4d193)  
+[Codes](https://github.com/ptnguyen128/downloadTwitter)  
+A quick and easy tutorial on how to automatically download Twitter photos/videos.  
+**Keywords:** Python, Tweepy, Web Scraping
+
 ## Vietnamese Music Genre Classification
 [Codes](https://github.com/ptnguyen128/DS-portfolio/tree/master/Python/music-genre-classification)  
 Music genre classification has always been a difficult problem, especially for non-English songs. This project aimed to build a music classifier to detect the correct genre of a given Vietnamese song.  
