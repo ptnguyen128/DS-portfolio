@@ -13,6 +13,13 @@ Several predictive models were implemented, using phenotypic data extracted from
 **Keywords:** SQL, Python, Regular Expressions, Data Wrangling, Classification, Prediction, Regression, Survival Analysis
 
 # Personal Projects
+## AO3 Recommender
+[Working application](https://ao3-rec.herokuapp.com/)  
+[Codes](https://github.com/ptnguyen128/ao3-rec)  
+This application currently takes in a AO3 username, scrape through all the user's bookmarks, stores the data in a database, and outputs general statistics and plots about the bookmarks.  
+(Still under development) The final goal is to recommend user similar stories based on the user's bookmarks.  
+**Keywords:** Python, Web Scraping, Data Visualization  
+
 ## Discover Overarching Themes of Kpop Boy Band BTS With Machine Learning
 [Blog post](https://medium.com/@nguy3409/discovering-overarching-themes-of-kpop-boy-band-bts-using-machine-learning-246c69115ac8)  
 [Codes](https://github.com/ptnguyen128/lyrics-analysis)  
